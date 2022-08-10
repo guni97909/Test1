@@ -30,7 +30,7 @@ public class ConsolWeb {
 		String id,pw;
 		
 
-			System.out.println("나의 일기장 (1.입장  0.나가기)");
+			System.out.println("나의 일기장 1.입장  0.나가기");
 			int temp= sc.nextInt();
 			sc.nextLine();
 			
